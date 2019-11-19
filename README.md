@@ -8,4 +8,4 @@ In this assignment, we are asked to use some MATLAB’s functions related to fil
 
 ![image](https://user-images.githubusercontent.com/27548058/69190400-60967e80-0b31-11ea-8592-90ee065bd9ae.png)
 
-![image](https://user-images.githubusercontent.com/27548058/69190405-62604200-0b31-11ea-84c3-01fe31a9ab3f.png)
+![image](https://user-images.githubusercontent.com/27548058/69190426-73a94e80-0b31-11ea-980a-f11bc5eed63a.png)
